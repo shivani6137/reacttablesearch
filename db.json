@@ -1,0 +1,28 @@
+{
+  "product": [
+    {
+      "id": "1712427530440",
+      "name": "Flare Pants",
+      "price": "1222",
+      "cate": "Clothing"
+    },
+    {
+      "id": "1712563593342",
+      "name": "Polka Dot Shirt",
+      "price": "1299",
+      "cate": "Clothing"
+    },
+    {
+      "id": "1712563622944",
+      "name": "Nirvana T-shirt",
+      "price": "1999",
+      "cate": "Clothing"
+    },
+    {
+      "id": "1712563729929",
+      "name": "Joggers",
+      "price": "2599",
+      "cate": "Clothing"
+    }
+  ]
+}
